@@ -1,2 +1,2 @@
 # BE-ml-python-part2
-Skitbra häng i denna readme filen
+D&A Training - Data Wrangling & Vizualization in Python
